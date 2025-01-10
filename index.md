@@ -17,7 +17,7 @@ A detailed instruction manual that we give to parents in linked on the OSF page 
 
 
 ### Building your own BabyView   
-Here is a <a rel='link' href="https://docs.google.com/document/d/1WNVVGBGL0Wr9JmhAmUBP3aWvqdm5t9pT6djyN3FBbCs/edit.">detailed guide </a>. to assembling your own BabyView Camera, as well as a <a rel='link' href="https://docs.google.com/spreadsheets/d/12SI27F_oBQgyvxefRzlTGkFIlSgNnN3jJOYjoff56Ng/edit?usp=sharing.">bill of materials </a>. for each component; the custom mounts will need to be 3D printed (see <a rel='link' href="https://osf.io/kwvxu/.">the BabyView OSF page</a> for CAD files).
+Here is a <a rel='link' href="https://docs.google.com/document/d/1WNVVGBGL0Wr9JmhAmUBP3aWvqdm5t9pT6djyN3FBbCs/edit">detailed guide </a>. to assembling your own BabyView Camera, as well as a <a rel='link' href="https://docs.google.com/spreadsheets/d/12SI27F_oBQgyvxefRzlTGkFIlSgNnN3jJOYjoff56Ng/edit?usp=sharing">bill of materials </a>. for each component; the custom mounts will need to be 3D printed (see <a rel='link' href="https://osf.io/kwvxu/.">the BabyView OSF page</a> for CAD files).
 
 
 ### Camera choice 
