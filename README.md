@@ -9,7 +9,7 @@ The BabyView camera is designed to collect high-resolution, at-home egocentric v
 
 All design documentation, safety testing protocols, assembly instructions, pilot data, data management protocols, and sample participant instructions can be found at https://osf.io/kwvxu/.
 
-Please visit the BabyView project site here: **[https://babyview-project.github.io/](https://babyview-project.github.io/)**
+Please visit the BabyView project site here: **[https://babyview-project.github.io/](https://babyview-project.github.io/)**.
 
 ![design.png](camera_design_bones.png)
 
